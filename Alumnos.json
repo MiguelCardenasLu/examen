@@ -1,8 +1,8 @@
 [
    {
-      "alumno":"Maria",
-      "nota":7.05,
-      "ranking":130
+      "alumno":"Miguel",
+      "nota":10,
+      "ranking":1
    },
    {
       "alumno":"Juan",
@@ -41,7 +41,7 @@
    },
    {
       "alumno":"Angel",
-      "nota":10,
-      "ranking":1
+      "nota":7.05,
+      "ranking":130
    }
 ]
