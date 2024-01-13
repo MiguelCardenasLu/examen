@@ -6,12 +6,12 @@
    },
    {
       "alumno":"Juan",
-      "nota":2,
+      "nota":2.05,
       "ranking":510
    },
    {
       "alumno":"Alba",
-      "nota":8.5,
+      "nota":8.54,
       "ranking":50
    },
    {
@@ -21,27 +21,27 @@
    },
    {
       "alumno":"Valentina",
-      "nota":9.5,
+      "nota":9.53,
       "ranking":25
    },
    {
       "alumno":"Alberto",
-      "nota":6.9,
+      "nota":6.92,
       "ranking":213
    },
    {
       "alumno":"Monica",
-      "nota":2.8,
+      "nota":2.87,
       "ranking":480
    },
    {
       "alumno":"Manuel",
-      "nota":5.5,
+      "nota":5.59,
       "ranking":320
    },
    {
       "alumno":"Angel",
-      "nota":7.05,
+      "nota":7.25,
       "ranking":130
    }
 ]
